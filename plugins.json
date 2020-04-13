@@ -117,5 +117,12 @@
     "name": "Prisma Provider",
     "package": "netlify-plugin-prisma-provider",
     "repo": "https://github.com/redwoodjs/netlify-plugin-prisma-provider"
+  },
+  {
+    "author": "chaunceyau",
+    "description": "Inspects package.json to make sure nothings out-of-the-ordinary :)",
+    "name": "Inspector JSON",
+    "package": "netlify-plugin-inspector-json",
+    "repo": "https://github.com/chaunceyau/netlify-plugin-inspector-json"
   }
 ]
